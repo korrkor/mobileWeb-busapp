@@ -1,0 +1,17 @@
+.ui-listview {
+    margin: 0 !important;
+}
+ 
+#viewNames, #viewNames div.iscroll-scroller {
+    width: 100% !important;
+}
+
+#admin_login
+{
+    float: right;
+}   
+
+#button_login
+{
+    
+}
